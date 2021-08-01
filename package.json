@@ -10,7 +10,7 @@
  "deploy": "deploy.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/zhizhu-video/web",
+  "repository": "https://github.com/zhizhu-video/vitepress",
   "author": "supbose <yshxw@qq.com>",
   "license": "MIT",
   "devDependencies": {
