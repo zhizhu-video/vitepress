@@ -3,7 +3,7 @@ module.exports = {
     description: 'Demo', //网站描述
     base: '/', //  部署时的路径 默认 /  可以使用二级地址 /base/
     lang: 'CN', //语言
-    // repo: 'vuejs/vitepress',
+    repo: 'zhizhu-video/vitepress',
     head: [
         // 改变title的图标
         [
@@ -27,7 +27,7 @@ module.exports = {
           // 假如文档不是放在仓库的根目录下：
           docsDir: 'docs',
           // 假如文档放在一个特定的分支下：
-          docsBranch: 'master',          
+          docsBranch: 'main',          
           editLinks: true,
           editLinkText: '帮助我们改善此页面！',
        lastUpdated: '上次更新',
