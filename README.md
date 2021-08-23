@@ -12,7 +12,9 @@ yarn add --dev vitepress
 ```
 ## 创建一个docs页面
 ```js
-mkdir docs && echo '# Hello VitePress' > docs/index.md
+mkdir docs 
+
+echo '# Hello VitePress' > docs/index.md
 ```
 ## 在package.json文件添加配置
 ```json
