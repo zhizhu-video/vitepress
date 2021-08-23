@@ -15,6 +15,7 @@ yarn add --dev vitepress
 mkdir docs 
 
 echo '# Hello VitePress' > docs/index.md
+（如果出现乱码，手动创建index.md文件）
 ```
 ## 在package.json文件添加配置
 ```json
