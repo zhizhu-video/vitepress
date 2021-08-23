@@ -1,0 +1,1 @@
+import{o as t,c as a,a as e}from"./app.2b79cf72.js";const r='{"title":"","description":"","frontmatter":{},"relativePath":"pages/zhuixu/2.md","lastUpdated":1629692672838}',n={},s=e("p",null,"赘婿杨辰 第二章",-1);n.render=function(e,r,n,i,l,o){return t(),a("div",null,[s])};export{r as __pageData,n as default};
